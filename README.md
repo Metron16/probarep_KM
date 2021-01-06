@@ -1,3 +1,3 @@
 # probarep_KM
 # Hozzáírtam valamit
-# ezt már gépről írtam
+# ezt már gépről írtam volna
